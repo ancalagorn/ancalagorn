@@ -1,4 +1,4 @@
-### Batuhan
+### Batuhan Türk
 
 Software developer.
 I move across the stack — systems work, backend services, tooling, frontend when it matters.
